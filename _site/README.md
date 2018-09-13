@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # cv
 
 Copy of a jekyll-based markdown CV, which currently looks something like [this](https://byronmew.github.io/cv).
@@ -32,7 +31,4 @@ Another problem with the PDF is pagebreaks, they're often not handled gracefully
 	page-break-before: always;
 }
 ```
-=======
-# Graham Rose
-Bioinformatics scientist working in NGS with a background genomics and microbiology
->>>>>>> dc0fee68a0a1efe0c54b17219a36a4f5f4a8a34b
+

@@ -60,7 +60,8 @@ __Unversity of Leeds__ BSc Microbiology (_Hons_) 2.1
 `2016`
 Illumina AGM: Invited scientific talk session, "The preterm infant gut microbiome"
 
-Porton Down: Microbiome session, "Challenges of the Unknown"
+`2017`
+Microbiology Society event: Microbiome session at Porton Down, "Challenges of the Unknown"
 
 
 

@@ -2,7 +2,7 @@
 layout: cv
 title: Graham's CV
 ---
-# Graham Rose
+# Graham D Rose
 PhD educated bioinformatics scientist with over ten year's experience in high-throughput sequencing from doctoral training, research, and government level positions, including Imperial College Healthcare NHS Trust, Wellcome Trust Sanger Institute and Public Health England, providing a wide analytical and applied skill set in the genomics space, coupled to a strong molecular biology training.
 
 <div id="webaddress">

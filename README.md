@@ -1,6 +1,6 @@
 # cv
 
-Copy of a jekyll-based markdown CV, which currently looks something like [this](https://byronmew.github.io/cv).
+Copy of a jekyll-based markdown CV, which currently looks something like [this](https://byronmews.github.io/cv).
 
 All credit to [blm](http://blm.io/blog/markdown-academic-cv/), and original markdown CV fork from [elipapa](https://github.com/elipapa/markdown-cv).
 

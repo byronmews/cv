@@ -3,7 +3,7 @@ layout: cv
 title: Graham's CV
 ---
 # Graham Rose
-Bioinformatics Scientist working in the NGS field with extensive background in pathogen genomics, microbiology and metagenomics.
+PhD educated bioinformatics scientist with over ten year's experience in high-throughput sequencing from doctoral training, research, and government level positions, including Imperial College Healthcare NHS Trust, Wellcome Trust Sanger Institute and Public Health England, providing a wide analytical and applied skill set in the genomics space, coupled to a strong molecular biology training.
 
 <div id="webaddress">
 <i class="fa fa-envelope"></i> <a href="mailto:grahamdrose@gmail.com">graham</a>
@@ -16,42 +16,42 @@ Bioinformatics Scientist working in the NGS field with extensive background in p
 
 ## Current
 
-Currently based at [Imperial College Trust](https://www.imperial.nhs.uk/research/about-our-research/genomic-medicine/) funded through [Genomics England](https://www.genomicsengland.co.uk/the-100000-genomes-project/). Embedded within the Molecular Pathology Department at Hammersmith Hospital, working as a bioinformatician and data analyst to help utilise high-throughput sequencing data, manage local clinical metadata being generated, and develop wider data storage solutions.
+I am currently based at [Imperial College Trust](https://www.imperial.nhs.uk/research/about-our-research/genomic-medicine/), embedded within the Molecular Pathology Department at Hammersmith Hospital and funded through [Genomics England](https://www.genomicsengland.co.uk/the-100000-genomes-project/). As a bioinformatics scientist I help utilise high-throughput sequencing data from the 100,000 genomes project, manage local clinical data being generated, and develop wider analyse and data storage solutions.
 
 ## Employment
 
-`2018-now`
-__Imperial College Healthcare NHS Trust__ Bioinformatics scientist (bioinformatician and reporting analyst)
+`10.2018-present`
+__Great Ormond Street Hospital__ Honorary contact bioinformatician role involving a collaboration to build on a bioinformatics management tool for handling clinical data retrieved from Genomics England as part of the 100,000 genomes project.
 
-`2018-now`
-__National Heart Lung Institute__ Honorary Fellow, access to Genomics England rare disease genome datasets (Research GeCIPs)
+`05.2018-present`
+__Imperial College London__ Honorary research fellow within the National Heart Lung Institute, providing bioinformatics support for several rare disease datasets generated as part of the 100,000 genomes project.
 
-`2016-2018`
-__Faculty of Genomic Medicine, Queen Mary Univeristy London__ Visiting lecturer, delivering part of the HEE MSc Genomic Medicine ‘Application of Genomics in Infectious Disease’ module
+`01.2018-present`
+__Imperial College Healthcare NHS Trust__ Bioinformatics scientist working on the 100,000 Genomes Project, and part of the West London Genomic Medicine Centre (GMC).
 
-`2015-2018`
-__Public Health England__ Building and delivering genomic and metagenomic research and development projects.
+`04.2016-04.2018`
+__Faculty of Genomic Medicine, Queen Mary University London__ Visiting lecturer, responsible for delivering part of the HEE MSc in Genomic Medicine ‘Application of Genomics in Infectious Disease’ module.
 
-`2014-2014`
-__Public Health England__  Contract role to build an analysis pipeline for a collabortaive metagenomic diagnostic project and member of the newly formed Genomic Research Unit
+`07.2014-01.2018`
+__Public Health England__ Computational Biologist role, responsible for building and delivering genomic and metagenomic research and development projects using a range of NGS platforms.
 
-`2013-2014`
+`09.2013-07.2014`
 __The Pirbright Institute__ Characterising terabase-scale sequence data from the transcriptome of Anopheles gambiae, as part of the Vector Molecular Biology group
 
-`2008-2009`
-__Wellcome Trust Sanger Institute__ Finishing and comparative analysis within the Pathogen Genomics group  
-
+`02.2008-07.2009`
+__Wellcome Trust Sanger Institute__ Finishing and comparative analysis within the Pathogen Genomics group, including Clostridium difficile and Mycobacterium
+tuberculosis. 
 
 ## Education
 
-`2009-2013`
+`09.2009-06.2013`
 __MRC National Institute of Medical Research__ Pathogen Genomics PhD (supervisors: Prof. Douglas Young and Prof. Sebastein Gagneux). My thesis was entitled _A genomic and transcriptomic study of lineage-specific variation in Mycobacterium tuberculosis_, available via [UCL Senate House](http://discovery.ucl.ac.uk/1397251/)                                    
 
-`2006-2007`
-__Unversity of Leeds__ MRes Bioinformatics and Computational Biology (_Distinction_)
+`09.2006-08.2007`
+__University of Leeds__ MRes Bioinformatics and Computational Biology (_Distinction_)
 
-`2003-2006`
-__Unversity of Leeds__ BSc Microbiology (_Hons_) 2.1
+`09.2003-06.2006`
+__University of Leeds__ BSc Microbiology (_Hons_) 2.1
 
 ## Presentations
 
@@ -156,7 +156,7 @@ R. A. Stabler, M. He, L. Dawson, M. Martin, E. Valiente, C. Corton, T. D. Lawley
 
 ## Awards
 
-Public Health England Pump Prime Funding (PPF) round 2017 (viral surveillance  study)
+Public Health England Pump Prime Funding (PPF) round 2017 (viral surveillance study)
 
 MRC scholarship (PhD fees + stipend)
 

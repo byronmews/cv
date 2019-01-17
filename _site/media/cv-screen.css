@@ -67,7 +67,7 @@ p {
 	left: 30%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 50%;
+	width: 65%;
 }
 
 code {
@@ -79,13 +79,13 @@ code {
 
 p code {
 	position: absolute;
-	left: -20%;
+	left: -15%;
 }
 
 ul {
 	position: relative;
 	left: 30%;
-	width: 50%;
+	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
   columns: 3;
@@ -107,7 +107,7 @@ li ul {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
-	width: 50%;
+	width: 65%;
 }
 
 h1 {
@@ -169,7 +169,7 @@ a:hover {
   margin-left: 30%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 70%;
+	font-size: 80%;
 }
 
 #webaddress a {

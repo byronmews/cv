@@ -21,7 +21,7 @@ I am currently based at [Great Ormond Street Hospital for Children NHS Foundatio
 ## Employment
 
 `04.2019-present`
-__Great Ormond Street Hospital__ Contact bioinformatician role to help develop and maintain on a Clinical Scientist software management tool for handling clinical data retrieved from Genomics England as part of the 100,000 genomes project. As well as wider integration across the Bioinformatics group projects.
+__Great Ormond Street Hospital__ Contract bioinformatician role to help develop and maintain a software management tool for handling clinical data retrieved from Genomics England as part of the 100,000 genomes project. As well as wider integration across the Bioinformatics group software projects.
 
 `10.2018-04.2019`
 __Great Ormond Street Hospital__ Honorary bioinformatician role involving a collaboration to build on a bioinformatics management tool for handling clinical data retrieved from Genomics England as part of the 100,000 genomes project.

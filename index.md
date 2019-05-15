@@ -16,7 +16,7 @@ PhD educated bioinformatics scientist with over ten year's experience in high-th
 
 ## Current
 
-I am currently based at [Great Ormond Street Hospital for Children NHS Foundation Trust](http://www.labs.gosh.nhs.uk/laboratory-services/genetics), embedded within the Bioinformatics group and part of the NE Thames Regional Genetics Laboratory. My role is funded through [Genomics England](https://www.genomicsengland.co.uk/the-100000-genomes-project/), and I help analyse, manage, and present high-throughput sequencing data from the 100,000 genomes project to Clinical Scientists, as well as in house generated targeted sequencing panels.
+I am currently based at [Great Ormond Street Hospital for Children NHS Foundation Trust](http://www.labs.gosh.nhs.uk/laboratory-services/genetics), embedded within their Bioinformatics group and part of the NE Thames Regional Genetics Laboratory. My role is funded through [Genomics England](https://www.genomicsengland.co.uk/the-100000-genomes-project/), and I help analyse, manage, and present high-throughput sequencing data from the 100,000 genomes project to Clinical Scientists, as well as in house generated targeted sequencing panels.
 
 ## Employment
 

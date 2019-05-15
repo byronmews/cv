@@ -16,7 +16,7 @@ PhD educated bioinformatics scientist with over ten year's experience in high-th
 
 ## Current
 
-I am currently based at [Imperial College Trust](https://www.imperial.nhs.uk/research/about-our-research/genomic-medicine/), embedded within the Molecular Pathology Department at Hammersmith Hospital and funded through [Genomics England](https://www.genomicsengland.co.uk/the-100000-genomes-project/). As a bioinformatics scientist I help utilise high-throughput sequencing data from the 100,000 genomes project, manage local clinical data being generated, and develop wider analyse and data storage solutions.
+I am currently based at [Great Ormond Street Hospital for Children NHS Foundation Trust](http://www.labs.gosh.nhs.uk/laboratory-services/genetics), embedded within the Bioinformatics group and part of the NE Thames Regional Genetics Laboratory. My role is funded through [Genomics England](https://www.genomicsengland.co.uk/the-100000-genomes-project/), and I help analyse, manage, and present high-throughput sequencing data from the 100,000 genomes project to Clinical Scientists, as well as in house generated targeted sequencing panels.
 
 ## Employment
 

@@ -16,11 +16,17 @@ PhD educated bioinformatics scientist with over ten year's experience in high-th
 
 ## Current
 
-I am currently based at [Great Ormond Street Hospital for Children NHS Foundation Trust](http://www.labs.gosh.nhs.uk/laboratory-services/genetics), embedded within their Bioinformatics group and part of the NE Thames Regional Genetics Laboratory. My role is funded through [Genomics England](https://www.genomicsengland.co.uk/the-100000-genomes-project/), and I help analyse, manage, and present high-throughput sequencing data from the 100,000 genomes project to Clinical Scientists, as well as in house generated targeted sequencing panels.
+I am currently based within the GOSH Bioinformatics group at [Great Ormond Street Hospital for Children NHS Foundation Trust](http://www.labs.gosh.nhs.uk/laboratory-services/genetics), which is the lead centre for the North Thames Genomic Labortory Hub. Initially funded through [Genomics England](https://www.genomicsengland.co.uk/the-100000-genomes-project/), this now permanent role involves software development, analysis and management skill sets for the high-throughput sequencing data generated as part of routine diagnostic service, and previously the 100,000 genomes project.
 
 ## Employment
 
-`04.2019-present`
+`09.2019-present`
+__Great Ormond Street Hospital__ Permanent bioinformatician within the diagnostic bioinfomatics team, combining the development and maintenance of a suite of bespoke web based applications and analytical pipelines, and to facilitate Clinical Scientists and researchers within interogating genomic datasets.
+
+`04.2019-04.2019`
+__Springer Nature__ Freelance Scientific Editor, taking on the developmental editing of research articles and reports.
+
+`04.2019-09.2019`
 __Great Ormond Street Hospital__ Contract bioinformatician role to help develop and maintain a software management tool for handling clinical data retrieved from Genomics England as part of the 100,000 genomes project. As well as wider integration across the Bioinformatics group software projects.
 
 `10.2018-04.2019`
@@ -140,14 +146,14 @@ R. A. Stabler, M. He, L. Dawson, M. Martin, E. Valiente, C. Corton, T. D. Lawley
 
 * UNIX - cli
 * Shell scripting - bash/awk/sed
-* Git
+* Python - pandas, beautifulsoup, APIs
+* Full Stack development - Django, Docker, MySQL, PostgreSQL
 * HPC - batching, lustre
 * Java/Groovy - pipelining, bpipe workflows
 * Perl - general scripting
-* VBA - db and automation within nhs frameworks
-* Python - panda, beautifulsoup, api's
-* R - bioconductor, deseq
-* SQL - jet, sqlite
+* VBA - automation within NHS frameworks
+* R - bioconductor, DESeq
+* Git
 
 
 ## Areas of expertise

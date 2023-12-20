@@ -23,7 +23,7 @@ I am currently based within the GOSH Bioinformatics group at [Great Ormond Stree
 `09.2019-present`
 __Great Ormond Street Hospital__ Permanent bioinformatician within the diagnostic bioinfomatics team, combining the development and maintenance of a suite of bespoke web based applications and analytical pipelines, and to facilitate Clinical Scientists and researchers within interogating genomic datasets.
 
-`04.2019-04.2019`
+`04.2019-03.2021`
 __Springer Nature__ Freelance Scientific Editor, taking on the developmental editing of research articles and reports.
 
 `04.2019-09.2019`
@@ -76,6 +76,19 @@ Illumina User General Meeting: Invited scientific talk session, "The preterm inf
 ## Publications
 
 <!-- ### Journals -->
+
+`2021`
+
+__The Mycobacterium tuberculosis sRNA F6 regulates expression of groEL/S.__
+J Houghton, A Rodgers, __G. Rose__, KB Arnvig. Microbiology spectrum. 2021
+
+__Premature neonatal gut microbial community patterns supporting an epithelial TLR-mediated pathway for necrotizing enterocolitis__
+Shaw, A. G., Sim, K., __Rose, G.__, Wooldridge, D. J., Li, M. S., Misra, R. V., Gharbia, S., & Kroll, J. S. BMC microbiology. 2021
+
+`2020`
+__The airways microbiome of individuals with asthma treated with high and low doses of inhaled corticosteroids.__
+Martin, M. J., Zain, N. M. M., Hearson, G., Rivett, D. W., Koller, G., Wooldridge, D. J., __Rose, G__, Gharbia, S. E., Forbes, B., Bruce, K. D., & Harrison, T. W. PloS one. 2020
+
 `2017`
 __Complete Genome Sequences of BK Polyomavirus Strains from Two Patients with Urinary Tract Infection, Sequenced Using the Ion Torrent Platform.__
 __G. Rose__, K. Ranellou, R. Misra, C. Crump, D. Wooldridge, S. Parmar, C. Maddren, S. Gharbia, H.  Jalal. Genome Announcements. 2017
@@ -144,16 +157,16 @@ R. A. Stabler, M. He, L. Dawson, M. Martin, E. Valiente, C. Corton, T. D. Lawley
 
 ## Technical skills
 
-* UNIX - cli
+* Linux CLI tools and sysadmin of lab/groups VMs and servers
 * Shell scripting - bash/awk/sed
-* Python - pandas, beautifulsoup, APIs
-* Full Stack development - Django, Docker, MySQL, PostgreSQL
+* Python - pandas, beautifulsoup, RESTful APIs, microservices
+* Full Stack development - Django, JavaScript, Docker, PostgreSQL, and asynchronous tasks with Celery
 * HPC - batching, lustre
-* Java/Groovy - pipelining, bpipe workflows
+* Java/Groovy - pipelining with bpipe, snakemake and Nextflow workflows
 * Perl - general scripting
-* VBA - automation within NHS frameworks
+* VBA - lifting legacy NHS code into modern languages
 * R - bioconductor, DESeq
-* Git
+* GitLab DevOps, setting up maintaining CI/CD pipelines
 
 
 ## Areas of expertise
